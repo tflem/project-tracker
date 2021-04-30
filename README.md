@@ -1,7 +1,6 @@
 # project-tracker
 
-- +An application that helps me keep track of work projects.
-  +Staging: <https://project-trackify.netlify.app>
+> An application that helps me keep track of work projects. Staging: <https://project-trackify.netlify.app>
 
 ## Project setup
 
